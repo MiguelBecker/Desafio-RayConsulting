@@ -10,6 +10,6 @@ de o comando "pip install -r requirements.txt"
 
 de o comando "python main.py"
 
-#Screencast Com Detalhes
+# Screencast Com Detalhes
 
 https://youtu.be/U4MgDOHpYc4
